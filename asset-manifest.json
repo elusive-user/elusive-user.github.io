@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/elusive-user.github.io/static/css/main.f2d7bf4d.chunk.css",
-    "main.js": "/elusive-user.github.io/static/js/main.e31e45f3.chunk.js",
-    "main.js.map": "/elusive-user.github.io/static/js/main.e31e45f3.chunk.js.map",
-    "runtime-main.js": "/elusive-user.github.io/static/js/runtime-main.c4344ca9.js",
-    "runtime-main.js.map": "/elusive-user.github.io/static/js/runtime-main.c4344ca9.js.map",
-    "static/js/2.5e8bb286.chunk.js": "/elusive-user.github.io/static/js/2.5e8bb286.chunk.js",
-    "static/js/2.5e8bb286.chunk.js.map": "/elusive-user.github.io/static/js/2.5e8bb286.chunk.js.map",
-    "index.html": "/elusive-user.github.io/index.html",
-    "static/css/main.f2d7bf4d.chunk.css.map": "/elusive-user.github.io/static/css/main.f2d7bf4d.chunk.css.map",
-    "static/js/2.5e8bb286.chunk.js.LICENSE.txt": "/elusive-user.github.io/static/js/2.5e8bb286.chunk.js.LICENSE.txt",
-    "static/media/error.42292aa1.gif": "/elusive-user.github.io/static/media/error.42292aa1.gif",
-    "static/media/mjolnir.61f31e18.png": "/elusive-user.github.io/static/media/mjolnir.61f31e18.png",
-    "static/media/vision.067d4ae1.png": "/elusive-user.github.io/static/media/vision.067d4ae1.png"
+    "main.css": "/marvelService/static/css/main.f2d7bf4d.chunk.css",
+    "main.js": "/marvelService/static/js/main.e31e45f3.chunk.js",
+    "main.js.map": "/marvelService/static/js/main.e31e45f3.chunk.js.map",
+    "runtime-main.js": "/marvelService/static/js/runtime-main.b8dff1a6.js",
+    "runtime-main.js.map": "/marvelService/static/js/runtime-main.b8dff1a6.js.map",
+    "static/js/2.5e8bb286.chunk.js": "/marvelService/static/js/2.5e8bb286.chunk.js",
+    "static/js/2.5e8bb286.chunk.js.map": "/marvelService/static/js/2.5e8bb286.chunk.js.map",
+    "index.html": "/marvelService/index.html",
+    "static/css/main.f2d7bf4d.chunk.css.map": "/marvelService/static/css/main.f2d7bf4d.chunk.css.map",
+    "static/js/2.5e8bb286.chunk.js.LICENSE.txt": "/marvelService/static/js/2.5e8bb286.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/marvelService/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/marvelService/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/marvelService/static/media/vision.067d4ae1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4344ca9.js",
+    "static/js/runtime-main.b8dff1a6.js",
     "static/js/2.5e8bb286.chunk.js",
     "static/css/main.f2d7bf4d.chunk.css",
     "static/js/main.e31e45f3.chunk.js"
