@@ -11,9 +11,9 @@ const App = () => {
                 <AppHeader />
                 <main>
                     <Routes>
-                        <Route path="/marvelService" element={<MainPage/>}/>
-                        <Route path="/marvelService/comics" element={<ComicsPage/>}/>
-                        <Route path="/marvelService/comics/:comicId" element={<SingleComicPage/>}/>
+                        <Route path="elusive-user.github.io/marvelService" element={<MainPage/>}/>
+                        <Route path="elusive-user.github.io/marvelService/comics" element={<ComicsPage/>}/>
+                        <Route path="elusive-user.github.io/marvelService/comics/:comicId" element={<SingleComicPage/>}/>
                         <Route path="*" element={<Page404/>}></Route>
                     </Routes>
                 </main>
