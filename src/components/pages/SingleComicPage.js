@@ -1,7 +1,13 @@
-import './singleComic.scss';
-import xMen from '../../resources/img/x-men.png';
+import { useParams, Link } from 'react-router-dom';
 
-const SingleComic = () => {
+import './singleComicPage.scss';
+import xMen from '../../resources/img/vision.png';
+
+const SingleComicPage = () => {
+
+    const smth = useParams();
+    console.log(smth);
+
     return (
         <div className="single-comic">
             <img src={xMen} alt="x-men" className="single-comic__img"/>
@@ -17,4 +23,4 @@ const SingleComic = () => {
     )
 }
 
-export default SingleComic;
+export default SingleComicPage;
